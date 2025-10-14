@@ -1,22 +1,26 @@
 # Hi, I'm Sunil 👋  &emsp; &emsp; &emsp; [Github](https://github.com/sunilmishra)
 <br/>
-  I work as a Sr. Software Engineer(Mobile) at [Pison](https://www.pison.com) where I lead mobile development. 
 
-- Engineering leader with over a **decade** of experience in architecting, building, and delivering high-quality mobile applications.
-  
-- Responsible for crafting a scalable mobile architecture, managing SDLC, and Cross-team collaborations.
-  
-- Strong communication and technical expertise in building products from conceptualized state to ready for stores.
-  
-- Build the team culture based on trust, technical excellences, collaboration and with product centric approach.
-  
-- Responsible for Customer engagements, management and delivering customize solutions and manage geographically dispersed teams.
-  
-- 10+ years of experience in Android app development.
-  
-- 5+ years of experience in Flutter development.
-  
-- Well-versed with cross platform development tools & technologies like Kotlin multiplatform and React Native.
+- Lead Developer with over a decade of hands-on and strategic
+experience in architecting and delivering high-performing mobile
+applications across native and cross-platform ecosystems.
+
+- Expert in leading end-to-end software development
+lifecycles, architecting modular mobile solutions, and aligning
+technical execution with product strategy.
+
+- Proven success mentoring developers, conducting rigorous
+code reviews, and championing clean, maintainable code in
+agile environments.
+
+- Adept at integrating AI-driven features into mobile products
+and leveraging tools like GitHub Copilot, Gemini, ChatGPT,
+and automated testing frameworks to accelerate development
+and improve quality.
+
+- Deeply committed to continuous innovation, team
+empowerment, and building high-impact applications that
+meet modern user expectations in an AI-augmented world.
   
 ## Specialties:
     o Product | Technology Roadmap | Architecture
@@ -26,19 +30,23 @@
     o Agile | Scrum
  
 ## Technical Skills:
-    o Android, Jetpack libraries, Kotlin, Coroutines, Flows, Retrofits, Room, Dagger/Hilt, Java, iOS, Swift,
-      Bluetooth(BLE), Reactive Programing
-      
-    o Flutter, Dart, BLOC, Provider/Riverpod
-    
-    o Kotlin Multiplatform, Compose-UI, Ktor, SQLDelight, Realm
-    
-    o Firebase, Supabase, REST, GraphQL, gRPC, Protobuff
-    
-    o Spring framework, NestJS, React Native
-    
-    o Solution Design, Clean Architecture, OOAD/UML, SOLID, Design Patterns, Lucid Chart, Dia
-    
-    o GIT, CI/CD (Circle-CI, GITFlow), JIRA, Sentry, Zeplin, Confluence
+- **Flutter Development** - 6+ years
+  - Dart, Flutter, State Management(Provider, Bloc, Riverpod etc..), Drift, gRPC, Protobuff, REST
+
+- **Kotlin Multiplatform** - 2+ years
+  - Android, iOS, Compose-UI, Ktor, Room, Serialization, Koin
+
+- **Android Development** - 10+ years
+  - Kotlin, Android, Jetpack Compose/Libraries, Coroutines, Flows, Retrofit, Room, Hilt
+
+- **React Native & Web Development** - 3+ years
+  - Typescript, React, Expo, Next.js, Tailwind
+
+- **Architecture** - Clean Architecture, OOAD/UML, SOLID Principles, Design Patterns, Lucid Chart, Dia
+
+- **Dev-ops Tools** - GIT, Github, CI/CD, JIRA, Confluence, Figma, Codecov, Sentry, Zeplin
+
+
+
     
 
