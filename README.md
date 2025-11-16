@@ -1,50 +1,46 @@
 # Hi, I'm Sunil 👋  &emsp; &emsp; &emsp; [Github](https://github.com/sunilmishra)
 <br/>
 
-- Lead Developer with over a decade of hands-on and strategic
-experience in architecting and delivering high-performing mobile
-applications across native and cross-platform ecosystems.
+Summary
+-------
 
-- Expert in leading end-to-end software development
-lifecycles, architecting modular mobile solutions, and aligning
-technical execution with product strategy.
+A seasoned Mobile Engineer with over **15 years** of hands-on experience designing and building robust, scalable mobile applications and solutions across **Android, iOS, Flutter, React Native, and Kotlin Multiplatform**.
 
-- Proven success mentoring developers, conducting rigorous
-code reviews, and championing clean, maintainable code in
-agile environments.
+My work blends deep technical expertise with strong software craftsmanship. I design clean, **modular architectures** that balance performance, maintainability, and scalability, focusing on building robust and adaptable solutions—whether native or cross-platform.
 
-- Adept at integrating AI-driven features into mobile products
-and leveraging tools like GitHub Copilot, Gemini, ChatGPT,
-and automated testing frameworks to accelerate development
-and improve quality.
+I bring a system-level perspective — from designing API contracts and optimizing performance to ensuring smooth integration with back-end and hardware layers. I’m committed to using **Clean Architecture**, **SOLID principles**, and proven **Design patterns** to deliver sustainable, high-quality engineering outcomes.
 
-- Deeply committed to continuous innovation, team
-empowerment, and building high-impact applications that
-meet modern user expectations in an AI-augmented world.
-  
-## Specialties:
-    o Product | Technology Roadmap | Architecture
-    
-    o Team Management | Leadership | Mentor
-    
-    o Agile | Scrum
- 
-## Technical Skills:
-- **Flutter Development** - 6+ years
-  - Dart, Flutter, State Management(Provider, Bloc, Riverpod etc..), Drift, gRPC, Protobuff, REST
+Skills
+------
 
-- **Kotlin Multiplatform** - 2+ years
-  - Android, iOS, Compose-UI, Ktor, Room, Serialization, Koin
+> **Flutter Development - 6+ years**  
+  *Dart, Flutter, State management, Drift, gRPC, Protobuff, REST, Firebase, Supabase, Dart Frog, Fullstack Development*
 
-- **Android Development** - 10+ years
-  - Kotlin, Android, Jetpack Compose/Libraries, Coroutines, Flows, Retrofit, Room, Hilt
+> **Android Development - 12+ years**  
+ *Kotlin, Android, Jetpack Compose/Libraries, Coroutines, Flows, Retrofit, Room, Hilt*
 
-- **React Native & Web Development** - 3+ years
-  - Typescript, React, Expo, Next.js, Tailwind
+> **React Native - 3+ years**  
+  *Typescript, React Native, Expo, Zustand, SQLite, Realm, AsyncStorage*
 
-- **Architecture** - Clean Architecture, OOAD/UML, SOLID Principles, Design Patterns, Lucid Chart, Dia
+> **iOS Development - 4+ years**  
+  *Swift, SwiftUI, CoreData, combine*
 
-- **Dev-ops Tools** - GIT, Github, CI/CD, JIRA, Confluence, Figma, Codecov, Sentry, Zeplin
+> **Kotlin Multiplatform - 2+ years**  
+ *Android, iOS, Compose-UI, Ktor, Room, Serialization, Koin*
+
+> **Web Development - 3+ years**  
+  *Next.js, Typescript, Tailwind, Shadcn, Vercel*
+
+> **Architecture** - *Clean Architecture, OOAD/UML, SOLID Principles, Design Patterns*
+
+> **Dev-ops Tools** - *GIT, Github, CI/CD, JIRA, Confluence, Figma, Codecov, Sentry, Zeplin*
+
+Specialties
+-----------
+
+🚀 Product Development | Technology Roadmap | Architecture
+
+👨‍💻 Team Management | Leadership | Mentor
 
 
 
